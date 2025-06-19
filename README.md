@@ -1,4 +1,5 @@
 🧠 Step-by-Step Plan
+
 ✅ 1. Get Inputs
 Ask for the total bill amount
 
